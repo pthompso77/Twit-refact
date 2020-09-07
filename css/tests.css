@@ -1,0 +1,6 @@
+/* tests.css */
+
+body * {
+    border: 2px dotted red;
+    margin: 10px;
+}

@@ -4,6 +4,20 @@
     border-radius: 9999px;
 }
 
+.gray-border-children > * {
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+.feed-item {
+    padding: 5px;
+}
+
+
+
+
+/* Twitter logo crap */
 .twit1 {
 align-items: stretch;
 border-bottom-color: rgb(0, 0, 0);

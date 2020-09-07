@@ -1,6 +1,14 @@
 /* tests.css */
 
 body * {
-    border: 2px dotted red;
+    border: 2px dotted black;
     margin: 10px;
+}
+
+.col {
+    border: 2px dotted red;
+}
+
+.row {
+    border: 2px dotted green;
 }
